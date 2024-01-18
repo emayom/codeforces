@@ -15,7 +15,7 @@ Mac OS 기본 쉘을 기준으로 작성하였습니다.
 export MY_CODE_FORCES="/$HOME/codeforces"
 
 alias cfmake="bash $MY_CODE_FORCES/make.sh"
-alias cftest="bash $MY_CODE_FORCES/make.sh"
+alias cftest="bash $MY_CODE_FORCES/test.sh"
 ```
 
 ##### 설정 파일 변경 사항 반영
