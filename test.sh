@@ -1,3 +1,5 @@
+#!/bin/sh
+
 EXEC_DIR=${1}
 BASE_DIR="$MY_CODE_FORCES/problems"
 
