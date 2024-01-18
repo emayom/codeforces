@@ -40,3 +40,5 @@ $ Enter the problem name: 👈
 | 71A | [way-too-long-words](./problems/way-too-long-words)| 2023-01-18 |
 | 231A | [team](./problems/team/) | 2023-01-18|
 | 1A | [theatre-square](./problems/theatre-square/) | 2023-01-18 |
+| 158A | [next-round](.//Users/emayom/codeforces/problems/next-round) | 2024-01-19 | 
+| 282A | [bit++](.//Users/emayom/codeforces/problems/bit++) | 2024-01-19 | 
