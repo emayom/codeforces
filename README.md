@@ -1,4 +1,6 @@
 ## 쉘 스크립트로 알고리즘 문제 풀이 파일 관리 자동화 :ok_woman: 
+![cf-make](https://github.com/emayom/codeforces/assets/85545101/f1fda656-9640-4ed8-bcd3-b28990aaa825)
+
 #### 1. Git Clone
 ```shell
 git clone -b cf-cli --single-branch https://github.com/emayom/codeforces.git
@@ -28,5 +30,3 @@ cfmake
 - `/problems/[problem-name]` 디렉토리가 생성됩니다. 
 - 문제 풀이를 위한 `input.txt`, `main.js` 파일이 내부에 생성됩니다. 
 - `README.md` 파일에 인덱스와, 문제 이름, 디렉토리 경로, 풀이 일자가 추가됩니다. 
-
-![cfmake](https://github.com/emayom/codeforces/assets/85545101/e7d69332-33aa-45df-8661-24a72ab04674)
