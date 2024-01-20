@@ -10,3 +10,4 @@
 | 158A | [next-round](./problems/next-round) | 2024-01-19 | 
 | 282A | [bit++](./problems/bit++) | 2024-01-19 | 
 | 50A | [domino-piling](./problems/domino-piling) | 2024-01-20 | 
+| 263A | [beautiful-matrix](./problems/beautiful-matrix) | 2024-01-20 | 
