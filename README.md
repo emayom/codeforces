@@ -9,3 +9,4 @@
 | 1A | [theatre-square](./problems/theatre-square/) | 2023-01-18 |
 | 158A | [next-round](.//Users/emayom/codeforces/problems/next-round) | 2024-01-19 | 
 | 282A | [bit++](.//Users/emayom/codeforces/problems/bit++) | 2024-01-19 | 
+| 50A | [domino-piling](.//Users/emayom/codeforces/problems/domino-piling) | 2024-01-20 | 
