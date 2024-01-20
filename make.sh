@@ -46,7 +46,7 @@ else
 
         # README.md 업데이트 
         cd $MY_CODE_FORCES
-        echo "| $INDEX | [$NEW_FILE_NAME](./$DIR) | $DATE | " >> README.md
+        echo "| $INDEX | [$NEW_FILE_NAME](./problems/$NEW_FILE_NAME) | $DATE | " >> README.md
 
         # vscode 실행 
         echo "All Done!"
