@@ -12,3 +12,4 @@
 | 50A | [domino-piling](./problems/domino-piling) | 2024-01-20 | 
 | 263A | [beautiful-matrix](./problems/beautiful-matrix) | 2024-01-20 | 
 | 112A | [petya-and-strings](./problems/petya-and-strings) | 2024-01-21 | 
+| 339A | [helpful-maths](./problems/helpful-maths) | 2024-01-21 | 
