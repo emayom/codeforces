@@ -11,3 +11,4 @@
 | 282A | [bit++](./problems/bit++) | 2024-01-19 | 
 | 50A | [domino-piling](./problems/domino-piling) | 2024-01-20 | 
 | 263A | [beautiful-matrix](./problems/beautiful-matrix) | 2024-01-20 | 
+| 112A | [petya-and-strings](./problems/petya-and-strings) | 2024-01-21 | 
