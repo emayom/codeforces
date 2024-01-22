@@ -4,20 +4,20 @@
 
 | 인덱스 | 문제 이름 | 풀이 일자 |
 |:-:|-|-|
-| 4A | [watermelon](./problems/watermelon) | 2023-01-18 |
-| 71A | [way-too-long-words](./problems/way-too-long-words)| 2023-01-18 |
-| 231A | [team](./problems/team/) | 2023-01-18|
-| 1A | [theatre-square](./problems/theatre-square/) | 2023-01-18 |
-| 158A | [next-round](./problems/next-round) | 2024-01-19 | 
-| 282A | [bit++](./problems/bit++) | 2024-01-19 | 
-| 50A | [domino-piling](./problems/domino-piling) | 2024-01-20 | 
-| 263A | [beautiful-matrix](./problems/beautiful-matrix) | 2024-01-20 | 
-| 112A | [petya-and-strings](./problems/petya-and-strings) | 2024-01-21 | 
-| 339A | [helpful-maths](./problems/helpful-maths) | 2024-01-21 | 
-| 281A | [word-capitalization](./problems/word-capitalization) | 2024-01-21 | 
-| 236A | [boy-or-girl](./problems/boy-or-girl) | 2024-01-21 | 
-| 118A | [string-task](./problems/string-task) | 2024-01-22 | 
-| 266A | [stones-on-the-table](./problems/stones-on-the-table) | 2024-01-22 | 
-| 791A | [bear-and-big-brother](./problems/bear-and-big-brother) | 2024-01-23 | 
-| 617A | [elephant](./problems/elephant) | 2024-01-23 | 
-| 546A | [soldier-and-bananas](./problems/soldier-and-bananas) | 2024-01-23 | 
+| 4A | [Watermelon](./problems/watermelon) | 2023-01-18 |
+| 71A | [Way Too Long Words](./problems/way-too-long-words)| 2023-01-18 |
+| 231A | [Team](./problems/team/) | 2023-01-18|
+| 1A | [Theatre Square](./problems/theatre-square/) | 2023-01-18 |
+| 158A | [Next Round](./problems/next-round) | 2024-01-19 | 
+| 282A | [Bit++](./problems/bit++) | 2024-01-19 | 
+| 50A | [Domino Piling](./problems/domino-piling) | 2024-01-20 | 
+| 263A | [Beautiful Matrix](./problems/beautiful-matrix) | 2024-01-20 | 
+| 112A | [Petya And Strings](./problems/petya-and-strings) | 2024-01-21 | 
+| 339A | [Helpful Maths](./problems/helpful-maths) | 2024-01-21 | 
+| 281A | [Word Capitalization](./problems/word-capitalization) | 2024-01-21 | 
+| 236A | [Boy or Girl](./problems/boy-or-girl) | 2024-01-21 | 
+| 118A | [String Task](./problems/string-task) | 2024-01-22 | 
+| 266A | [Stones on the Table](./problems/stones-on-the-table) | 2024-01-22 | 
+| 791A | [Bear and Big Brother](./problems/bear-and-big-brother) | 2024-01-23 | 
+| 617A | [Elephant](./problems/elephant) | 2024-01-23 | 
+| 546A | [Soldier And Bananas](./problems/soldier-and-bananas) | 2024-01-23 | 
