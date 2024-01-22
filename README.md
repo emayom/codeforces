@@ -16,3 +16,4 @@
 | 281A | [word-capitalization](./problems/word-capitalization) | 2024-01-21 | 
 | 236A | [boy-or-girl](./problems/boy-or-girl) | 2024-01-21 | 
 | 118A | [string-task](./problems/string-task) | 2024-01-22 | 
+| 266A | [stones-on-the-table](./problems/stones-on-the-table) | 2024-01-22 | 
