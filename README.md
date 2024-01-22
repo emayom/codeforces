@@ -18,3 +18,6 @@
 | 236A | [boy-or-girl](./problems/boy-or-girl) | 2024-01-21 | 
 | 118A | [string-task](./problems/string-task) | 2024-01-22 | 
 | 266A | [stones-on-the-table](./problems/stones-on-the-table) | 2024-01-22 | 
+| 791A | [bear-and-big-brother](./problems/bear-and-big-brother) | 2024-01-23 | 
+| 617A | [elephant](./problems/elephant) | 2024-01-23 | 
+| 546A | [soldier-and-bananas](./problems/soldier-and-bananas) | 2024-01-23 | 
