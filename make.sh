@@ -46,7 +46,11 @@ else
 
         # README.md 업데이트 
         cd $MY_CODE_FORCES
-        echo "| $INDEX | [$NEW_FILE_NAME](./problems/$NEW_FILE_NAME) | $DATE | " >> README.md
+
+        # 대쉬(-)를 공백 문자로 치환, 공백 이후 첫 문자는 대문자로 변환 
+        PROBLEM_NAME=$(echo "$NEW_FILE_NAME" | perl -pe 's/-/ /g; s/\b(\w)/\u$1/g') 
+
+        echo "| $INDEX | [$PROBLEM_NAME](./problems/$NEW_FILE_NAME) | $DATE | " >> README.md
 
         # vscode 실행 
         echo "All Done!"
