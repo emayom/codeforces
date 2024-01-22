@@ -1,6 +1,15 @@
 ## 쉘 스크립트로 알고리즘 문제 풀이 파일 관리 자동화 :ok_woman: 
 ![cf-make](https://github.com/emayom/codeforces/assets/85545101/f1fda656-9640-4ed8-bcd3-b28990aaa825)
 
+### Usage
+```sh 
+.
+├── README.md
+├── main.js     # 문제 풀이 템플릿 
+├── make.sh     # 디렉토리 및 파일 생성 스크립트 
+└── test.sh     # 문제풀이 결과 확인 스크립트
+```
+
 #### 1. Git Clone
 ```shell
 git clone -b cf-cli --single-branch https://github.com/emayom/codeforces.git
