@@ -1,6 +1,7 @@
-<!-- Code Forces -->
-![image](https://user-images.githubusercontent.com/49322948/159158565-ded8dc03-6676-496d-8496-1f9d05f3fb58.png) 
----
+## CodeForces 문제 풀이 목록 
+- 알고리즘 문제 풀이 목록은 `README.md`로 저장하고 관리합니다.
+- 문제 풀이 디렉토리 생성 시 `README.md` 파일은 [자동으로 업데이트](https://github.com/emayom/codeforces/tree/cf-cli)됩니다.
+
 | 인덱스 | 문제 이름 | 풀이 일자 |
 |:-:|-|-|
 | 4A | [watermelon](./problems/watermelon) | 2023-01-18 |
