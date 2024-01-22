@@ -15,3 +15,4 @@
 | 339A | [helpful-maths](./problems/helpful-maths) | 2024-01-21 | 
 | 281A | [word-capitalization](./problems/word-capitalization) | 2024-01-21 | 
 | 236A | [boy-or-girl](./problems/boy-or-girl) | 2024-01-21 | 
+| 118A | [string-task](./problems/string-task) | 2024-01-22 | 
