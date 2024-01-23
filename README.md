@@ -21,3 +21,6 @@
 | 791A | [Bear and Big Brother](./problems/bear-and-big-brother) | 2024-01-23 | 
 | 617A | [Elephant](./problems/elephant) | 2024-01-23 | 
 | 546A | [Soldier And Bananas](./problems/soldier-and-bananas) | 2024-01-23 | 
+| 59A | [Word](./problems/word) | 2024-01-24 | 
+| 69A | [Young Physicist](./problems/young-physicist) | 2024-01-24 | 
+| 977A | [Wrong Subtraction](./problems/wrong-subtraction) | 2024-01-24 | 
