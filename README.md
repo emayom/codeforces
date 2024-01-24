@@ -24,3 +24,6 @@
 | 59A | [Word](./problems/word) | 2024-01-24 | 
 | 69A | [Young Physicist](./problems/young-physicist) | 2024-01-24 | 
 | 977A | [Wrong Subtraction](./problems/wrong-subtraction) | 2024-01-24 | 
+| 96A | [Football](./problems/football) | 2024-01-25 | 
+| 110A | [Nearly Lucky Number](./problems/nearly-lucky-number) | 2024-01-25 | 
+| 734A | [Anton And Danik](./problems/anton-and-danik) | 2024-01-25 | 

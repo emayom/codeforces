@@ -1,0 +1,34 @@
+"use strict";
+process.stdin.resume();
+process.stdin.setEncoding("utf-8");
+
+let inputString = "";
+let currentLine = 0;
+
+process.stdin.on("data", (inputStdin) => (inputString += inputStdin));
+
+process.stdin.on("end", () => {
+  inputString = inputString
+    .trim()
+    .split("\n")
+    .map((string) => string.trim());
+
+  main();
+});
+
+function readline() {
+  return inputString[currentLine++];
+}
+
+function main() {
+  const digits = readline()
+    .split("")
+    .map((v) => parseInt(v));
+  const luckyNumbers = digits.filter((digit) => digit === 4 || digit === 7);
+
+  console.log(
+    luckyNumbers && (luckyNumbers.length === 4 || luckyNumbers.length === 7)
+      ? "YES"
+      : "NO"
+  );
+}
