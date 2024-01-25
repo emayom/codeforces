@@ -27,3 +27,4 @@
 | 96A | [Football](./problems/football) | 2024-01-25 | 
 | 110A | [Nearly Lucky Number](./problems/nearly-lucky-number) | 2024-01-25 | 
 | 734A | [Anton And Danik](./problems/anton-and-danik) | 2024-01-25 | 
+| 41A | [Translation](./problems/translation) | 2024-01-25 | 
