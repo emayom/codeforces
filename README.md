@@ -28,3 +28,5 @@
 | 110A | [Nearly Lucky Number](./problems/nearly-lucky-number) | 2024-01-25 | 
 | 734A | [Anton And Danik](./problems/anton-and-danik) | 2024-01-25 | 
 | 41A | [Translation](./problems/translation) | 2024-01-25 | 
+| 116A | [Tram](./problems/tram) | 2024-01-26 | 
+| 677A | [Vanya And Fence](./problems/vanya-and-fence) | 2024-01-26 | 
