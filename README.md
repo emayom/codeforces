@@ -32,3 +32,4 @@
 | 677A | [Vanya And Fence](./problems/vanya-and-fence) | 2024-01-26 | 
 | 266B | [Queue At The School](./problems/queue-at-the-school) | 2024-01-26 | 
 | 271A | [Beautiful Year](./problems/beautiful-year) | 2024-01-26 | 
+| 58A | [Chat Room](./problems/chat-room) | 2024-01-27 | 
