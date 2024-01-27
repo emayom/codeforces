@@ -33,3 +33,5 @@
 | 266B | [Queue At The School](./problems/queue-at-the-school) | 2024-01-26 | 
 | 271A | [Beautiful Year](./problems/beautiful-year) | 2024-01-26 | 
 | 58A | [Chat Room](./problems/chat-room) | 2024-01-27 | 
+| 1030A | [In Search Of An Easy Problem](./problems/in-search-of-an-easy-problem) | 2024-01-27 | 
+| 122A | [Lucky Division](./problems/lucky-division) | 2024-01-27 | 
