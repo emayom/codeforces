@@ -35,3 +35,7 @@
 | 58A | [Chat Room](./problems/chat-room) | 2024-01-27 | 
 | 1030A | [In Search Of An Easy Problem](./problems/in-search-of-an-easy-problem) | 2024-01-27 | 
 | 122A | [Lucky Division](./problems/lucky-division) | 2024-01-27 | 
+| 467A | [George And Accommodation](./problems/george-and-accommodation) | 2024-01-29 | 
+| 160A | [Twins](./problems/twins) | 2024-01-29 | 
+| 344A | [Magnets](./problems/magnets) | 2024-01-29 | 
+| 136A | [Presents](./problems/presents) | 2024-01-29 | 
