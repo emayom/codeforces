@@ -39,3 +39,5 @@
 | 160A | [Twins](./problems/twins) | 2024-01-29 | 
 | 344A | [Magnets](./problems/magnets) | 2024-01-29 | 
 | 136A | [Presents](./problems/presents) | 2024-01-29 | 
+| 200B | [Drinks](./problems/drinks) | 2024-01-30 | 
+| 318A | [Even Odds](./problems/even-odds) | 2024-01-30 | 
