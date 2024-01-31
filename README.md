@@ -41,3 +41,8 @@
 | 136A | [Presents](./problems/presents) | 2024-01-29 | 
 | 200B | [Drinks](./problems/drinks) | 2024-01-30 | 
 | 318A | [Even Odds](./problems/even-odds) | 2024-01-30 | 
+| 61A | [Ultra Fast Mathematician](./problems/ultra-fast-mathematician) | 2024-01-31 | 
+| 228A | [Is Your Horseshoe On The Other Hoof](./problems/is-your-horseshoe-on-the-other-hoof) | 2024-01-31 | 
+| 133A | [HQ9+](./problems/HQ9+) | 2024-01-31 | 
+| 705A | [Hulk](./problems/hulk) | 2024-01-31 | 
+| 405A | [Gravity Flip](./problems/gravity-flip) | 2024-01-31 | 
