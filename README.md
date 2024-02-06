@@ -46,3 +46,7 @@
 | 133A | [HQ9+](./problems/HQ9+) | 2024-01-31 | 
 | 705A | [Hulk](./problems/hulk) | 2024-01-31 | 
 | 405A | [Gravity Flip](./problems/gravity-flip) | 2024-01-31 | 
+| 1328A | [Divisibility Problem](./problems/divisibility-problem) | 2024-02-06 | 
+| 469A | [I Wanna Be The Guy](./problems/i-wanna-be-the-guy) | 2024-02-06 | 
+| 1927A | [Make It White](./problems/make-it-white) | 2024-02-07 | 
+| 479A | [Expression](./problems/expression) | 2024-02-07 | 
